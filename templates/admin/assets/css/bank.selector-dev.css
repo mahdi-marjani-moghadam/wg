@@ -1,0 +1,74 @@
+			*{
+				padding:0;
+				margin: 0;	
+			}
+
+			div.bank_sel {
+				width:335px;
+				height:300px;
+				position: absolute;
+				margin-top: 20px;	
+				box-shadow: 5px 5px 5px 5px #888;
+				border:4px solid #333;
+				background:#ecf0f1;
+                z-index: 999999;
+			}
+		
+			div.bank_sel ul {
+				list-style: none;
+                margin: 0;
+                padding: 0;
+			}
+
+			div.triangle {
+				display: block;
+				width: 0;
+				height: 0;
+				border-style: solid;
+				border-width: 16px;
+				position: absolute;
+			}
+	
+			div.triangleTop {
+				border-color: transparent transparent #343434 transparent;
+				top: -33px;
+				left: 140px;
+			}
+
+			/*
+				Bank Icons
+			*/	
+
+			li.bnk-saman { background: url("bank-selector-img/saman64.png") no-repeat;}
+			li.bnk-agri { background: url("bank-selector-img/agribank64.png") no-repeat;}
+			li.bnk-maskan { background: url("bank-selector-img/bank_makan64.png") no-repeat;}
+			li.bnk-mellat { background: url("bank-selector-img/Mellat64.png") no-repeat;}
+			li.bnk-melli { background: url("bank-selector-img/bank_melli64.png") no-repeat;}
+			li.bnk-en { background: url("bank-selector-img/enbank64.png") no-repeat;}
+			li.bnk-parsian { background: url("bank-selector-img/parsian64.png") no-repeat;}
+			li.bnk-sepah { background: url("bank-selector-img/bank_sepah64.png") no-repeat;}
+			li.bnk-pasargad { background: url("bank-selector-img/bank-pasargad64.png") no-repeat;}
+			li.bnk-ansar { background: url("bank-selector-img/bank-ansar64.png") no-repeat;}
+			li.bnk-karafarin { background: url("bank-selector-img/bankKarAfarin64.png") no-repeat;}
+			li.bnk-refah { background: url("bank-selector-img/refah-bank64.png") no-repeat;}
+
+			li.bank-icon { 
+				background-size: 48px  48px;
+				background-position: center;	
+				width:48px;
+				height:48px;
+				float: right;
+				margin:15px;
+				margin-bottom:35px;
+				cursor: pointer;
+				position: relative;
+			}	
+
+			li.bank-icon span { 
+				position: absolute;
+				bottom: -25px;	
+				width: 100%;
+				text-align: center;
+				font-size: 15px;
+                right: 0;
+			}

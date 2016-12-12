@@ -1,0 +1,14 @@
+RewriteEngine On
+
+RewriteRule ^admin.*$ - [L,nc]
+
+RewriteRule ^sitemap.php.*$ - [L,nc]
+
+RewriteRule \.(js|JS|Js|ico|gif|jpg|JPG|png|css|txt|xml|eot|otf|svg|ttf|woff)$  -  [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^([^.*]+)/?$ index.php?$1 [L,QSA]
+#RewriteRule ^(.*)$ index.php?$1 [nc]
+
+

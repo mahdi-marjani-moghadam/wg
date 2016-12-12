@@ -1,0 +1,74 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+@font-face {
+    font-family: iransans;
+    font-style: normal;
+    font-weight: normal;
+    src: url('fonts/IRANSans/eot/IRANSansWeb.eot');
+    src: url('fonts/IRANSans/eot/IRANSansWeb.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+    url('fonts/IRANSans/woff2/IRANSansWeb.woff') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+    url('fonts/IRANSans/woff/IRANSansWeb.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('fonts/IRANSans/ttf/IRANSansWeb.ttf') format('truetype');
+}
+@font-face {
+    font-family: iransans-b;
+    font-style: normal;
+    font-weight: bold;
+    src: url('fonts/IRANSans/eot/IRANSansWeb_Bold.eot');
+    src: url('fonts/IRANSans/eot/IRANSansWeb_Bold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+    url('fonts/IRANSans/woff2/IRANSansWeb_Bold.woff') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+    url('fonts/IRANSans/woff/IRANSansWeb_Bold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('fonts/IRANSans/ttf/IRANSansWeb_Bold.ttf') format('truetype');
+}
+
+body,
+small,
+#primary-menu ul ul li > a,
+.wp-caption,
+.feature-box.fbox-center.fbox-italic p,
+.skills li .progress-percent .counter,
+.nav-tree ul ul a,
+.font-body { font-family: 'iransans', sans-serif; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#logo,
+#primary-menu ul li > a,
+#primary-menu ul li .mega-menu-content.style-2 ul.mega-menu-column > li.mega-menu-title > a,
+#top-search form input,
+.entry-link,
+.entry.entry-date-section span,
+.button.button-desc,
+.counter,
+label,
+.nav-tree li a,
+.wedding-head .first-name,
+.wedding-head .last-name,
+.font-primary { font-family: 'iransans', sans-serif; }
+
+.entry-meta li,
+.entry-link span,
+.entry blockquote p,
+.more-link,
+.comment-content .comment-author span,
+.button.button-desc span,
+.testi-content p,
+.team-title span,
+.before-heading,
+.wedding-head .first-name span,
+.wedding-head .last-name span,
+.font-secondary { font-family: 'iransans', serif; }
+
+.button.button-border,#primary-menu ul li a{letter-spacing:0}
+
+
+

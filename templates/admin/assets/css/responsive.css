@@ -1,0 +1,208 @@
+@media (max-width: 1023px) {
+	.translate-left{
+		margin-right: 0;
+	    -webkit-transform: translateX(-300px);
+	    -moz-transform: translateX(-300px);
+	    -ms-transform: translateX(-300px);
+	    -o-transform: translateX(-300px);
+	    transform: translateX(-300px);
+	}
+}
+@media (min-width: 1023px) {
+    .bottom1{
+        position: absolute;
+        bottom: 0;
+        margin-bottom: 64px;
+        margin-right: 15px;
+    }
+    .bottom2{
+        position: absolute;
+        bottom: 0;
+        margin-bottom: 34px;
+        margin-right: 15px;
+    }
+}
+
+@media (max-width: 801px) {
+    .logoHolder img{
+    margin-right: 3em;
+    }
+
+/** header **/	
+	.header{
+		border-bottom: 1px solid rgba(255, 255, 255, .1);
+	}
+
+    .header-brand {
+        right: 50%;
+        margin-right: -25px;
+    }
+
+    .header-profile {
+        margin-left: -15px;
+    }
+    .header-profile > .profile-nav {
+         padding-right: 0;
+    }
+    .profile-nav > a {
+        display: block;
+        width: 100%;
+        font-size: 1.5em;
+        text-align: center;
+        line-height: 2;
+        margin-top: .2em;
+    }
+
+    #toggleSideBar {
+        display: block;
+        visibility: visible;
+    }
+
+/** sidebar **/
+	.side-left{
+        right: -100%;
+        width: 200px;
+	}
+		.sidebar{
+			width: 100%;
+			margin: 0 auto;
+			text-align: center;
+            border-bottom: none;
+		}
+		.sidebar:after{
+			content: '';
+			display: table;
+			clear: both;
+		}
+		.sidebar > li{
+			display: table;
+			width: 100%;
+		}
+		.sidebar > li.active:after, 
+    	.sidebar > li.active:before{
+    		display: none;
+    	}
+        .sidebar li > a {display: table;padding: 0}
+        .sidebar li > a:hover ul{display: none !important;}
+        .sidebar li a > .sidebar-icon {
+            font-size: 1.5em;
+            line-height: 2;
+            width: 40px;
+            height: 40px;
+            float: right;
+        }
+        .sidebar li a > span {
+            font-size: 1.2em;
+            line-height: 2.5;
+            width: 160px;
+            height: 40px;
+            float: right;
+            text-align: right;
+        }
+
+        .sidebar li a > b {
+            top: 13px;
+            left: 10px;
+        }
+        .sidebar li a > b:before {
+            content: "\f107";
+        }
+
+    .sidebar-child {
+        display: none;
+    }
+    .sidebar-child.active {
+        display: block !important;
+    }
+	.sidebar-child,
+	.sidebar-child-inline{
+        position: relative;
+		top: inherit;
+		right: inherit;
+		border: 1px solid #E0E4E8;
+		border-top: none;
+        padding: 0;
+	}
+        .sidebar-child li {
+            display: table;
+            min-width: 100%;
+            height: 35px;
+        }
+        .sidebar-child li a {
+            padding: 0 .5rem !important;
+        }
+        .sidebar-child li a:hover {
+            -webkit-border-radius: 0;
+            -moz-border-radius: 0;
+            border-radius: 0;
+        }
+		.sidebar-child-inline li{
+			display: block;
+			margin: 0 0 10px 0;
+		}
+	    .sidebar-child-inline li.divider{
+	        width: 100%;
+	        height: 1px;
+	    }
+/** end sidebar-left **/
+
+/** sidebar-right **/
+	
+/** end sidebar-right **/
+/** end sidebar **/
+
+/* content */
+	.content{
+		margin-right: 0;
+		/*min-height: 200px;*/
+	}
+	.content.content-sm{
+		margin-right: 0;
+	}
+	.content > .content-body{
+		min-height: 200px;
+	}
+/* end content */
+}
+
+@media (max-width: 640px) {
+	.header form.form-inline{
+		display: none;
+	}
+	.header-brand h1, .header-brand h2, .header-brand h3, .header-brand h4, .header-brand h5, .header-brand h6 {
+		font-size: 2em;
+	}
+	.header-profile .profile-username{
+		/*display: none;*/
+        margin-right: -100px;
+	}
+    .tooltip {
+        display: none !important;
+        visibility: hidden !important;
+    }
+    .dropdown-menu.dropdown-extend.pull-right:before {
+        left: 8.5em;
+        right: auto;
+    }
+    .dropdown-menu.pull-right {
+        left: 0 !important;
+        width: 100% !important;
+        min-width: 180px !important;
+    }
+    .profile-nav .dropdown-menu:before {
+        left: 15px;
+    }
+    .profile-nav > a {
+        width: 25px;
+    }
+    .header-menu > li > a {
+        width: 30px;
+    }
+}
+@media screen and (max-width: 560px) {
+
+    .boxA {
+        width: 100%;
+    }
+}
+

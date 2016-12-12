@@ -1,0 +1,78 @@
+#add_Charecter_user {
+    display: none !important;
+}
+.navbar {
+    display: none !important;
+}
+.rightSideBar {
+    display: none !important;
+    visibility: hidden;
+}
+.bwizard-steps {
+    display: none !important;
+}
+.contentHolder > ul.nav {
+    display: none !important;
+}
+
+.row.small.marketing,.row.medium.marketing,.row.large.marketing {
+    display: none !important;
+}
+.tabHeader {
+    display: none !important;
+}
+
+.btn{
+    display: none !important;
+}
+
+.footable-sort-indicator {
+    display: none !important;
+}
+
+table td:first-child,table th:first-child {
+    display: none !important;
+}
+
+.allBorder {
+    position: fixed;
+    top: -15px !important;
+    border: none;
+    right: -145px !important;
+}
+
+.mainContainer {
+    width: 100% !important;
+}
+
+ul.pager.wizard {
+    display: none !important;
+}
+
+h2, .h2 {
+    font-size: 20px !important;
+}
+.clean {
+    display: none !important;
+}
+
+div[data-role="print"],label[class*="col"],span[class*="col"] {
+    padding: 2px !important;
+    width: auto !important;
+}
+
+div[data-role="print"] {
+    margin-right: 15px !important;
+    width: 50% !important;
+    float: right;
+}
+
+table
+{
+    page-break-before: always;
+    page-break-after: always;
+}
+
+table tbody td {
+    max-width: 100px;
+}
