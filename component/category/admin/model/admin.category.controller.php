@@ -1,18 +1,19 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: malekloo
- * Date: 3/6/2016
- * Time: 11:21 AM
+ * User: malek
+ * Date: 2/20/2016
+ * Time: 4:24 PM
  */
 
 include_once(dirname(__FILE__)."/admin.category.model.php");
 
 /**
- * Class registerController
+ * Class newsController
  */
 class adminCategoryController
 {
+
     /**
      * Contains file type
      * @var
@@ -26,7 +27,7 @@ class adminCategoryController
     public $fileName;
 
     /**
-     * registerController constructor.
+     *
      */
     public function __construct()
     {
@@ -35,19 +36,19 @@ class adminCategoryController
     }
 
     /**
-     * call template
-     *
      * @param string $list
      * @param $msg
      * @return string
      */
-    function template($list=[], $msg)
+    function template($list=array(),$msg)
     {
-        global $messageStack;
+        // global $conn, $lang;
+
 
         switch($this->exportType)
         {
             case 'html':
+
                 include(ROOT_DIR . "templates/" . CURRENT_SKIN . "/template_start.php");
                 include(ROOT_DIR . "templates/" . CURRENT_SKIN . "/template_header.php");
                 include(ROOT_DIR . "templates/" . CURRENT_SKIN . "/template_rightMenu_admin.php");
@@ -59,7 +60,6 @@ class adminCategoryController
             case 'json':
                 echo json_encode($list);
                 break;
-
             case 'array':
                 return $list;
                 break;
@@ -67,7 +67,6 @@ class adminCategoryController
             case 'serialize':
                  echo serialize($list);
                 break;
-
             default:
                 break;
         }
@@ -75,217 +74,264 @@ class adminCategoryController
     }
 
     /**
-     * add honour
-     *
      * @param $_input
-     * @return int|mixed
-     * @author marjani
-     * @date 2/27/2015
-     * @version 01.01.01
+     *
      */
-    public function addCategory($_input)
+    public function showMore($_input)
     {
-
-        $pub=new adminCategoryModel;
-        print_r_debug($_input);
-        $saveOption = $_input;
-        $saveOption['category'] = (implode(",",$_input['category']));
-        $saveOption['otherPic'] = (implode(",",$_input['otherPic']));
-print_r_debug($saveOption);
-        $result=$pub->setFields($saveOption);
-
-        if($result['result']==-1)
+        if(!is_numeric($_input))
         {
-            $this->showCategoryAddForm($_input,$result['msg']);
+            $msg= 'یافت نشد';
+            $this->template($msg);
+        }
+        $news=new adminNewsModel();
+        $result=$news->getNewsById($_input);
+
+        if($result['result']!=1)
+        {
             die();
         }
-        $result = $pub->validator();
 
-        $result=$pub->save();
-        //print_r_debug($_FILES);
-        foreach ($_FILES as $name=>$file)
-        {//print_r_debug($file);
-
-            if(is_array($file['tmp_name']))
-            {}
-            else
-            {
-                if(file_exists($file['tmp_name'])){
-
-                    $type  = explode('/',$file['type']);
-                    $input['max_size'] = $file['size'];
-                    $input['upload_dir'] = ROOT_DIR.'statics/files/'.$_input['title'].'/';
-                    $result = fileUploader($input,$file );
-print_r_debug($result);
-                    fileRemover($input['upload_dir'],$pub->fields['file']);
-
-                    $pub->file_type = $type[0];
-                    $pub->extension = $type[1];
-                    $pub->file = $result['image_name'];
-                    $result = $pub->save();
-                }
-            }
-        }
-
-
-        if(file_exists($_FILES['image']['tmp_name'])){
-
-            $type  = explode('/',$_FILES['image']['type']);
-
-            $input['upload_dir'] = ROOT_DIR.'statics/files/'.$fields['artists_id'].'/';
-            $result = fileUploader($input,$_FILES['image']);
-            fileRemover($input['upload_dir'],$product->fields['image']);
-            $product->image = $result['image_name'];
-            $result = $product->save();
-        }
-
-        //$result=$product->addProduct();
-
-        if($result['result']!='1')
-        {
-            $messageStack->add_session('register',$result['msg']);
-            $this->showProductAddForm($_input,$result['msg']);
-        }
-
-        print_r_debug($result);
-        $msg='عملیات با موفقیت انجام شد';
-
-        redirectPage(RELA_DIR . "admin/?component=category", $msg);
+        $this->template($news->fields);
         die();
     }
 
 
+    public function getCategory_option($parent_id='0')
+    {
+        $model = new adminCategoryModel();
+        $result=$model->getCategoryOption();
+
+    }
+
+        /**
+     * @param $fields
+     */
+    public function showList($parent_id='0')
+    {
+        $model=new adminCategoryModel();
+
+
+
+        $result=$model->getCategoryOption();
+
+        if($result['result']!='1')
+        {
+            $this->fileName='admin.category.showList.php';
+            $this->template('',$result['msg']);
+            die();
+        }
+
+        $export['list']=$model->list;
+        $export['recordsCount']=$model->recordsCount;
+        $this->fileName='admin.category.showList.php';
+
+        $this->template($export);
+
+        die();
+
+        foreach ($result as $key => $val)
+        {
+            print_r($val['export'].'<br/>');
+        }
+        //echo "<br/>start<br/>" . $st, "<br/>close<br/>";
+        print_r($result);
+
+
+        $result=$model->getCategoryTree();
+        /*
+         * //ul li sample
+        $mainMenu=$model->getulli($model->list[$parent_id],1,$model->list);
+        $mainMenu = "<ul>\n".$mainMenu ."</ul>";
+        echo '<pre/>';
+        print_r($mainMenu);*/
+
+        $this->fileName='admin.news.showList.php';
+        $this->template('',$result['msg']);
+        die();
+
+        $export['list']=$model->list;
+        $export['recordsCount']=$news->recordsCount;
+        $this->fileName='admin.news.showList.php';
+
+
+        $fields = $result['export']['list'];
+        $this->listCat = $fields;
+        $mainMenu=$this->getulli($fields[0]);
+        $mainMenu = "<ul>\n".$mainMenu ."</ul>";
+
+        return $mainMenu;
+
+        //////////////////////////
+        if($result['result']!='1')
+        {
+            $this->fileName='admin.news.showList.php';
+            $this->template('',$result['msg']);
+            die();
+        }
+        $export['list']=$news->list;
+        $export['recordsCount']=$news->recordsCount;
+        $this->fileName='admin.news.showList.php';
+        /////////////////////////
+
+
+
+        //////
+        if($result['result']!='1')
+        {
+            $this->fileName='admin.news.showList.php';
+            $this->template('',$result['msg']);
+            die();
+        }
+        $export['list']=$news->list;
+        $export['recordsCount']=$news->recordsCount;
+        $this->fileName='admin.news.showList.php';
+
+        $this->template($export);
+        die();
+      //////
+
+
+
+        if($result['result']!='1')
+        {
+            die();
+        }
+        $export['list']=$news->list;
+        $export['recordsCount']=$news->recordsCount;
+        $this->fileName='admin.news.showList.php';
+
+        $this->template($export);
+        die();
+    }
+
     /**
-     * call register form
-     *
      * @param $fields
      * @param $msg
-     * @return mixed
-     * @author malekloo
-     * @date 14/03/2016
-     * @version 01.01.01
      */
-
-    public function showCategoryAddForm($fields ='' , $msg='' )
+    public function showCategoryAddForm($fields,$msg)
     {
-        include_once(ROOT_DIR . "component/category/admin/model/admin.category.model.php");
-        $category = new adminCategoryModel();
-        $result = $category->getByFilter();
-        if($result['result'] != 1)
-        {
-            $msg='مشکلی در نمایش بوجود آمده است.';
 
-            redirectPage(RELA_DIR . "admin/?component=category", $msg);
+
+        $category = new adminCategoryModel();
+
+        $resultCategory = $category->getCategoryOption('|-- ',0,'1');
+        if($resultCategory['result'] == 1)
+        {
+            $fields['category'] = $category->list;
         }
-        $fields['category'] = $result['export']['list'];
-        
+
+
         $this->fileName='admin.category.addForm.php';
         $this->template($fields,$msg);
         die();
     }
 
-
     /**
      * @param $fields
      * @return mixed
-     * @author malekloo
-     * @date 3/16/2015
-     * @version 01.01.01
      */
-    public function editCategory($fields)
+    public function addCategory($fields)
     {
+        $category=new adminCategoryModel();
 
-        $result=adminCategoryModel::find($fields['id']);
+        $fields['status'] = 1;
+        $result = $category->setFields($fields);
 
-        $result1=$result->setFields($fields);
+        $valid = $category->validator();
 
-        if($result1['result']!=1)
-        {
-            $this->showCategoryEditForm($fields,$result['msg']);
-            die();
-        }
+        $category->save();
 
-        $result=$result->save();
-
-
-        $msg='ویرایش با موفقیت انجام شد.';
-        redirectPage(RELA_DIR . "admin/?component=category", $msg);
-        die();
-    }
-
-
-    /**
-     * @param $fields
-     * @return mixed
-     * @author malekloo
-     * @date 3/6/2015
-     * @version 01.01.01
-     */
-    public function showCategoryEditForm($fields,$msg='')
-    {
-
-        $honour=new adminCategoryModel();
-        $result=$honour::find($fields['id']);
-
-        $export = $result->fields;
-
-        $this->fileName='admin.category.editForm.php';
-        $this->template($export,$msg);
-        die();
-    }
-
-
-
-    /**
-     * @param $fields
-     * @return mixed
-     * @author malekloo
-     * @date 3/6/2015
-     * @version 01.01.01
-     */
-    public function showList($fields='')
-    {
-        $honour=new adminCategoryModel();
-        $result=$honour->getByFilter();
-        if($result['result']!='1')
-        {
-            $this->fileName='admin.category.list.php';
-            $this->template('',$result['msg']);
-            die();
-        }
-        $export['list']=$result['export']['list'];
-
-        $export['recordsCount']=$result['export']['recordsCount'];
-        $this->fileName='admin.category.list.php';
-        $this->template($export);
-        die();
-    }
-    /**
-     * delete deleteCompany by company_id
-     *
-     * @param $id
-     * @author malekloo
-     * @date 2/24/2015
-     * @version 01.01.01
-     */
-    public function deleteCategory($id)
-    {
-
-        $honour = adminCategoryModel::find($id);
-
-
-        $result=$honour->delete();
-
-        if($result['result']!='1')
-        {
-            redirectPage(RELA_DIR . "admin/index.php?component=category");
-        }
 
         $msg='عملیات با موفقیت انجام شد';
         redirectPage(RELA_DIR . "admin/index.php?component=category", $msg);
         die();
     }
 
-}
+    /**
+     * @param $fields
+     * @param $msg
+     */
+    public function showCategoryEditForm($fields,$msg)
+    {
 
+        $category=new adminCategoryModel();
+
+        $result    = $category->getCategoryById($fields['Category_id']);
+
+        if($result['result']!='1')
+        {
+            $msg=$result['msg'];
+            redirectPage(RELA_DIR . "admin/index.php?component=category", $msg);
+        }
+
+        $export=$category->fields;
+
+        $where="Category_id<>'{$fields['Category_id']}'";
+        $resultCategory = $category->getCategoryOption('|-- ',0,'1',$where);
+        if($resultCategory['result'] == 1)
+        {
+            $export['category_list'] = $category->list;
+        }
+
+        $this->fileName='admin.category.editForm.php';
+        $this->template($export,$msg);
+        die();
+    }
+
+    /**
+     * @param $fields
+     */
+    public function editCategory($fields)
+    {
+        $object = adminCategoryModel::find($fields['Category_id']);
+        if(!is_object($object))
+        {
+            $msg=$object['msg'];
+            redirectPage(RELA_DIR . "admin/index.php?component=category", $msg);
+        }
+        $result=$object->setFields($fields);
+        $result=$object->validator();
+
+        $result = $object->save();
+
+
+        if($result['result']!='1')
+        {
+            $this->showCategoryEditForm($fields,$result['msg']);
+        }
+        $msg='عملیات با موفقیت انجام شد';
+        redirectPage(RELA_DIR . "admin/index.php?component=category", $msg);
+        die();
+    }
+    public function deleteCategory($id)
+    {
+
+        $object = adminCategoryModel::find($id);
+
+        if(!is_object($object))
+        {
+            $msg=$object['msg'];
+            redirectPage(RELA_DIR . "admin/index.php?component=category", $msg);
+        }
+
+
+        $result=adminCategoryModel::getBy_parent_id($id)->get();
+
+        if($result['export']['recordsCount']!='0')
+        {
+            $result['result'] = -1;
+            $result['msg']='ابتدا زیر دسته ها را پاک نمایید';
+            redirectPage(RELA_DIR . "admin/index.php?component=category", $msg);
+        }
+
+        $result = $object->delete();
+
+
+        $msg='حذف دسته بندی';
+        redirectPage(RELA_DIR . "admin/index.php?component=category", $msg);
+        die();
+    }
+
+}
 ?>

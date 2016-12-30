@@ -1,7 +1,366 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27cc8eaf-fee1-4a79-81e7-31c89bf7e562" name="Default" comment="" />
+    <list default="true" id="27cc8eaf-fee1-4a79-81e7-31c89bf7e562" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/et-line/et-line.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/et-line/et-line.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/et-line/et-line.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRAN Sans.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRAN Sans.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRAN Sans.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRAN Sans.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/eot/IRANSansWeb(FaNum).eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/eot/IRANSansWeb(FaNum)_Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/eot/IRANSansWeb.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/eot/IRANSansWeb_Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/ttf/IRANSansWeb(FaNum).ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/ttf/IRANSansWeb(FaNum)_Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/ttf/IRANSansWeb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/ttf/IRANSansWeb_Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff/IRANSansWeb(FaNum).woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff/IRANSansWeb(FaNum)_Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff/IRANSansWeb.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff/IRANSansWeb_Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff2/IRANSansWeb(FaNum).woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff2/IRANSansWeb(FaNum)_Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff2/IRANSansWeb.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff2/IRANSansWeb_Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/Simple-Line-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/Simple-Line-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/Simple-Line-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/font-icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/font-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/font-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/iransans-r.TTF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/iransans-r.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/iransans.TTF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/iransans.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/iransans.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/iransans.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/lined-icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/lined-icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/lined-icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/blog/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/blog/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/blog/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/blog/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/blog/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/blog/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/blog/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/canvasone-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/canvasone-dark@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/canvasone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/canvasone@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/devices-wireframe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/fashion/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/fashion/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/fashion/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/fashion/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/footer-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/footer-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/footer-logo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/footer-widget-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/footer-widget-logo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/dotted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/performance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/responsive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/retina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/seo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/support.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/tick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/tools.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/flags/french.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/flags/german.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/flags/italian.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/macbook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/mainsubmenu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/mainsubmenuh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/map-icon-red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/map-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/menu-divider.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/menu-dividerd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/cup-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/cup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/fork-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/fork.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/glass-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/glass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/tea-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/tea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/submenu-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/submenu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/video-play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-comment-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-comment-dark@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-comment@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-link-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-link-dark@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-link@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-dark@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-resto-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-resto-dark@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-resto.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-resto@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-side-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-side-dark@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-side.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-side@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/iphone-slider.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/main.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/slider-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/slider-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/testimonials.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/12-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/4-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/6-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/6-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/6-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/9-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/9-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/12-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/4-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/6-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/6-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/6-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/9-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/9-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/preloader-dark.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/preloader-dark@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/preloader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/preloader@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/team/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/team/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/team/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/world-map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/404/404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/404/model/notFound.controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/404/model/notFound.model.db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/404/model/notFound.model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/aboutus/aboutus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/aboutus/admin/admin.aboutus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/aboutus/admin/model/admin.aboutus.controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/aboutus/admin/model/admin.aboutus.model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/aboutus/model/aboutus.controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/aboutus/model/aboutus.model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/admin/model/admin.category.model.db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/admin/model/category.import.model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/admin/model/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/model/category.controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/model/category.model.db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/model/category.model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/model/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/admin/admin.contactus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/admin/model/admin.contactus.controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/admin/model/admin.contactus.model.db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/admin/model/admin.contactus.model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/contactus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/model/contactus.controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/model/contactus.model.db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/model/contactus.model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/login/model/login.model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/team/admin/admin.team.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/team/admin/model/admin.team.controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/team/admin/model/admin.team.model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/team/model/team.controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/team/model/team.model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/team/team.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/admin.login.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/admin_member.db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/admin_members.o.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/admin_members.p.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/datatable.converter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/db.inc.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/member.login.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/news.model.db.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/news.model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/aboutus.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/contactus.form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/bootstrap-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/colors 2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/colors-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/colors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/colors.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/dark-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/et-line.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/et-line/et-line.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/font-icons-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/font-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts 2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/Simple-Line-Icons.dev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/Simple-Line-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/font-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/lined-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/magnific-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/nivo-slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/portfolio.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/responsive-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/style-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/swiper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/vmap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/iconalt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/phpmailer/PHPMailerAutoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/phpmailer/class.phpmailer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/phpmailer/class.phpmaileroauth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/phpmailer/class.phpmaileroauthgoogle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/phpmailer/class.pop3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/phpmailer/class.smtp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/phpmailer/get_oauth_token.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/sendemail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/canvas.slider.fade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/bs-datatable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/bs-editable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/bs-filestyle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/bs-select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/bs-switches.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/daterangepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/rangeslider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/responsive-tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/select-boxes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/selectsplitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/star-rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/timepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/typehead.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/events-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.calendario.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.elastic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.gmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.mousewheel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.nivo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.vmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.color.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.countdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.countto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.dribbble.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.fitvids.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.flexslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.flickrfeed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.important.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.infinitescroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.instagram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.isotope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.magnific.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.owlcarousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.pagetransition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.paginate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.parallax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.piechart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.superfish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.swiper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.textrotator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.toastr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.twitterfeed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.youtube.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/continents/jquery.vmap.africa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/continents/jquery.vmap.asia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/continents/jquery.vmap.australia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/continents/jquery.vmap.europe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/continents/jquery.vmap.north-america.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/continents/jquery.vmap.south-america.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.algeria.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.brazil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.europe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.france.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.germany.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.russia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.sampledata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.usa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.world.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/tail.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/title.inc.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webgem.iml" afterPath="$PROJECT_DIR$/.idea/webgem.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/index.php" afterPath="$PROJECT_DIR$/admin/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/init.inc.php" afterPath="$PROJECT_DIR$/admin/init.inc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/category/admin/admin.category.php" afterPath="$PROJECT_DIR$/component/category/admin/admin.category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/category/admin/model/admin.category.controller.php" afterPath="$PROJECT_DIR$/component/category/admin/model/admin.category.controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/category/admin/model/admin.category.model.php" afterPath="$PROJECT_DIR$/component/category/admin/model/admin.category.model.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/index/model/index.controller.php" afterPath="$PROJECT_DIR$/component/index/model/index.controller.php" />
+    </list>
     <ignored path="webgem.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -20,58 +379,98 @@
     <favorites_list name="webgem" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="server.inc.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server.inc.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/index/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="272">
+              <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template_rightMenu_admin.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/admin/template_rightMenu_admin.php">
+      <file leaf-file-name="index.controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/index/model/index.controller.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
-              <caret line="96" column="78" selection-start-line="96" selection-start-column="78" selection-end-line="96" selection-end-column="78" />
+            <state relative-caret-position="1877">
+              <caret line="144" column="19" lean-forward="false" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="init.inc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/init.inc.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/template_rtl/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1183">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="140" column="0" lean-forward="true" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
               <folding>
-                <marker date="1481325979000" expanded="true" signature="461:485" ph="SELECT * FRO... web_config" />
+                <element signature="n#section#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="init.inc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/init.inc.php">
+      <file leaf-file-name="tail.inc.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/template_rtl/tail.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1480082529000" expanded="true" signature="462:486" ph="SELECT * FRO... web_config" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="title.inc.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/template_rtl/title.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-216">
+              <caret line="44" column="40" lean-forward="false" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aboutus.controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/aboutus/model/aboutus.controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>css/</find>
+      <find>js/</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;?=TEMPLATE_DIR?&gt;css/</replace>
+      <replace>&lt;?=TEMPLATE_DIR?&gt;js/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/server.inc.php" />
         <option value="$PROJECT_DIR$/templates/admin/template_rightMenu_admin.php" />
+        <option value="$PROJECT_DIR$/admin/init.inc.php" />
+        <option value="$PROJECT_DIR$/component/portfolio/admin/admin.portfolio.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/component/index/model/index.controller.php" />
+        <option value="$PROJECT_DIR$/component/aboutus/model/aboutus.controller.php" />
+        <option value="$PROJECT_DIR$/templates/template_rtl/title.inc.php" />
+        <option value="$PROJECT_DIR$/templates/template_rtl/tail.inc.php" />
+        <option value="$PROJECT_DIR$/templates/template_rtl/index.php" />
       </list>
     </option>
   </component>
@@ -86,19 +485,11 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="833" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -114,8 +505,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -123,12 +512,6 @@
               <option name="myItemId" value="webgem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webgem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="webgem" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
@@ -144,7 +527,79 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template_rtl" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webgem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webgem" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webgem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webgem" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webgem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webgem" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aboutus" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webgem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webgem" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aboutus" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -162,15 +617,102 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webgem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webgem" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DOCUMENT" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="true" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/component" />
+      <recent name="$PROJECT_DIR$/templates/template_rtl" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -186,34 +728,41 @@
       <option name="presentableId" value="Default" />
       <updated>1481468455590</updated>
       <workItem from="1481468457527" duration="1665000" />
+      <workItem from="1481534279445" duration="121000" />
+      <workItem from="1481636140506" duration="787000" />
+      <workItem from="1482830244172" duration="1707000" />
+      <workItem from="1483128198714" duration="1461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1665000" />
+    <option name="totallyTimeSpent" value="5741000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1440" height="833" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26251787" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -231,12 +780,88 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/template_rightMenu_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" column="78" lean-forward="false" selection-start-line="96" selection-start-column="78" selection-end-line="96" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/admin/init.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1183">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1071">
+          <caret line="63" column="44" lean-forward="false" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
           <folding>
-            <marker date="1481325979000" expanded="true" signature="461:485" ph="SELECT * FRO... web_config" />
+            <marker date="1481642404000" expanded="true" signature="462:486" ph="SELECT * FRO... web_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/init.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="20" lean-forward="false" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+          <folding>
+            <marker date="1480082529000" expanded="true" signature="462:486" ph="SELECT * FRO... web_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/template_rightMenu_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" column="78" lean-forward="false" selection-start-line="96" selection-start-column="78" selection-end-line="96" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/init.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1481642404000" expanded="true" signature="462:486" ph="SELECT * FRO... web_config" />
           </folding>
         </state>
       </provider>
@@ -244,7 +869,111 @@
     <entry file="file://$PROJECT_DIR$/common/init.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480082529000" expanded="true" signature="462:486" ph="SELECT * FRO... web_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/admin/template_rightMenu_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" column="78" lean-forward="false" selection-start-line="96" selection-start-column="78" selection-end-line="96" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/init.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1481642404000" expanded="true" signature="462:486" ph="SELECT * FRO... web_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/init.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480082529000" expanded="true" signature="462:486" ph="SELECT * FRO... web_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/login.class.php" />
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/portfolio/admin/admin.portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/category/admin/model/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/init.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-129">
+          <caret line="63" column="44" lean-forward="false" selection-start-line="63" selection-start-column="44" selection-end-line="63" selection-end-column="44" />
+          <folding>
+            <marker date="1481642404000" expanded="true" signature="462:486" ph="SELECT * FRO... web_config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/init.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="75" column="20" lean-forward="false" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
           <folding>
             <marker date="1480082529000" expanded="true" signature="462:486" ph="SELECT * FRO... web_config" />
           </folding>
@@ -253,17 +982,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/admin/template_rightMenu_admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="96" column="78" selection-start-line="96" selection-start-column="78" selection-end-line="96" selection-end-column="78" />
+        <state relative-caret-position="653">
+          <caret line="96" column="78" lean-forward="false" selection-start-line="96" selection-start-column="78" selection-end-line="96" selection-end-column="78" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.inc.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="53" column="30" lean-forward="false" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOCUMENT/theme/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="86" selection-end-column="37" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/aboutus/model/aboutus.controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/index/model/index.controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1877">
+          <caret line="144" column="19" lean-forward="false" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template_rtl/title.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="44" column="40" lean-forward="false" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template_rtl/tail.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template_rtl/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="140" column="0" lean-forward="true" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+          <folding>
+            <element signature="n#section#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

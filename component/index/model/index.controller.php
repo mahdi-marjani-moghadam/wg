@@ -117,42 +117,32 @@ class indexController
     {
 
         //use category model func by getCategoryUlLi
-        include_once(ROOT_DIR."component/category/model/category.model.php");
+        /*include_once(ROOT_DIR."component/category/model/category.model.php");
         $category = new categoryModel();
 
         $resultCategory = $category->getCategoryUlLi();
-
 
         if($resultCategory['result'] == 1)
         {
             $export['category_list'] = $resultCategory['export']['list'];
         }
 
-        include_once(ROOT_DIR."component/event/model/event.model.php");
-        $event = new eventModel();
-
-        $limit['limit']['start'] = 0;
-        $limit['limit']['length'] = 18;
-        $limit['order']['Event_id']='DESC';
-        $result = $event->getByFilter($limit);
-        $export['lastEvent'] = $result['export']['list'];
-
         $resultCategoryAll = $category->allCategory();
         if ($resultCategoryAll['result'] == 1) {
             $export['category_list_all'] = $resultCategoryAll['export']['list'];
-        }
+        }*/
 
 
-        include_once(ROOT_DIR."component/banner/model/banner.model.php");
+        /*include_once(ROOT_DIR."component/banner/model/banner.model.php");
         $banner = new bannerModel();
 
         $fields['order']['priority']='ASC';
         $banner = $banner->getByFilter($fields);
-        $export['banner'] = $banner['export']['list'];
+        $export['banner'] = $banner['export']['list'];*/
 
         $this->fileName = "index.php";
         //print_r_debug($export);
-        $this->template($export);
+        $this->template('');
         die();
     }
 
