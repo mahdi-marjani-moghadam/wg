@@ -2,364 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27cc8eaf-fee1-4a79-81e7-31c89bf7e562" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/et-line/et-line.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/et-line/et-line.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/et-line/et-line.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRAN Sans.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRAN Sans.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRAN Sans.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRAN Sans.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/eot/IRANSansWeb(FaNum).eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/eot/IRANSansWeb(FaNum)_Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/eot/IRANSansWeb.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/eot/IRANSansWeb_Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/ttf/IRANSansWeb(FaNum).ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/ttf/IRANSansWeb(FaNum)_Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/ttf/IRANSansWeb.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/ttf/IRANSansWeb_Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff/IRANSansWeb(FaNum).woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff/IRANSansWeb(FaNum)_Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff/IRANSansWeb.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff/IRANSansWeb_Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff2/IRANSansWeb(FaNum).woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff2/IRANSansWeb(FaNum)_Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff2/IRANSansWeb.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/IRANSans/woff2/IRANSansWeb_Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/Simple-Line-Icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/Simple-Line-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/Simple-Line-Icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/font-icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/font-icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/font-icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/iransans-r.TTF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/iransans-r.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/iransans.TTF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/iransans.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/iransans.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/iransans.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/lined-icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/lined-icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/lined-icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/blog/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/blog/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/blog/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/blog/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/blog/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/blog/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/blog/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/canvasone-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/canvasone-dark@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/canvasone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/canvasone@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/devices-wireframe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/fashion/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/fashion/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/fashion/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/fashion/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/footer-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/footer-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/footer-logo@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/footer-widget-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/footer-widget-logo@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/avatar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/dotted.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/performance.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/responsive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/retina.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/seo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/support.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/tick.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/features/tools.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/flags/french.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/flags/german.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/flags/italian.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/macbook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/mainsubmenu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/mainsubmenuh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/map-icon-red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/map-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/menu-divider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/menu-dividerd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/cup-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/cup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/fork-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/fork.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/glass-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/glass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/tea-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/restaurant/tea.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/submenu-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/submenu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/video-play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-comment-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-comment-dark@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-comment.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-comment@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-link-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-link-dark@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/widget-link@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-dark@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-resto-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-resto-dark@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-resto.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-resto@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-side-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-side-dark@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-side.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo-side@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/logo@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/chrome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/iphone-slider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/main.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/slider-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/slider-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/page/testimonials.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/12-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/4-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/6-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/6-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/6-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/9-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/9-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/12-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/4-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/6-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/6-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/6-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/9-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/9-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/4/mixed/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/portfolio/mixed/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/preloader-dark.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/preloader-dark@2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/preloader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/preloader@2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/shop/small/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/team/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/team/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/team/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/world-map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/404/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/404/model/notFound.controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/404/model/notFound.model.db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/404/model/notFound.model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/aboutus/aboutus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/aboutus/admin/admin.aboutus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/aboutus/admin/model/admin.aboutus.controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/aboutus/admin/model/admin.aboutus.model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/aboutus/model/aboutus.controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/aboutus/model/aboutus.model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/admin/model/admin.category.model.db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/admin/model/category.import.model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/admin/model/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/model/category.controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/model/category.model.db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/model/category.model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/category/model/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/admin/admin.contactus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/admin/model/admin.contactus.controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/admin/model/admin.contactus.model.db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/admin/model/admin.contactus.model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/contactus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/model/contactus.controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/model/contactus.model.db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/contactus/model/contactus.model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/login/model/login.model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/team/admin/admin.team.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/team/admin/model/admin.team.controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/team/admin/model/admin.team.model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/team/model/team.controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/team/model/team.model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/component/team/team.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/admin.login.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/admin_member.db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/admin_members.o.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/admin_members.p.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/datatable.converter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/db.inc.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/member.login.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/news.model.db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/news.model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/aboutus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/contactus.form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/bootstrap-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/colors 2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/colors-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/colors.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/dark-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/et-line.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/et-line/et-line.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/font-icons-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/font-icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts 2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/Simple-Line-Icons.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/Simple-Line-Icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/font-icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/fonts/lined-icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/magnific-popup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/nivo-slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/portfolio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/responsive-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/style-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/swiper.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/css/vmap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/images/icons/iconalt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/phpmailer/PHPMailerAutoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/phpmailer/class.phpmailer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/phpmailer/class.phpmaileroauth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/phpmailer/class.phpmaileroauthgoogle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/phpmailer/class.pop3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/phpmailer/class.smtp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/phpmailer/get_oauth_token.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/include/sendemail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/canvas.slider.fade.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/bs-datatable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/bs-editable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/bs-filestyle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/bs-select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/bs-switches.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/daterangepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/moment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/rangeslider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/responsive-tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/select-boxes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/selectsplitter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/star-rating.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/timepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/components/typehead.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/events-data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.calendario.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.camera.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.elastic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.gmap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.mousewheel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.nivo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/jquery.vmap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.color.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.countdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.countto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.dribbble.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.fitvids.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.flexslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.flickrfeed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.important.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.infinitescroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.instagram.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.isotope.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.magnific.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.owlcarousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.pagetransition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.paginate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.parallax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.piechart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.superfish.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.swiper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.textrotator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.toastr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.twitterfeed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.validation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/plugins/jquery.youtube.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/continents/jquery.vmap.africa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/continents/jquery.vmap.asia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/continents/jquery.vmap.australia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/continents/jquery.vmap.europe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/continents/jquery.vmap.north-america.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/continents/jquery.vmap.south-america.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.algeria.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.brazil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.europe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.france.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.germany.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.russia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.sampledata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.usa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/js/vmap/jquery.vmap.world.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/tail.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_rtl/title.inc.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/webgem.iml" afterPath="$PROJECT_DIR$/.idea/webgem.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/index.php" afterPath="$PROJECT_DIR$/admin/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/init.inc.php" afterPath="$PROJECT_DIR$/admin/init.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/category/admin/admin.category.php" afterPath="$PROJECT_DIR$/component/category/admin/admin.category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/category/admin/model/admin.category.controller.php" afterPath="$PROJECT_DIR$/component/category/admin/model/admin.category.controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/category/admin/model/admin.category.model.php" afterPath="$PROJECT_DIR$/component/category/admin/model/admin.category.model.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component/index/model/index.controller.php" afterPath="$PROJECT_DIR$/component/index/model/index.controller.php" />
     </list>
     <ignored path="webgem.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -731,12 +374,20 @@
       <workItem from="1481534279445" duration="121000" />
       <workItem from="1481636140506" duration="787000" />
       <workItem from="1482830244172" duration="1707000" />
-      <workItem from="1483128198714" duration="1461000" />
+      <workItem from="1483128198714" duration="1495000" />
     </task>
+    <task id="LOCAL-00001" summary="dd">
+      <created>1483130136929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1483130136929</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5741000" />
+    <option name="totallyTimeSpent" value="5775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="833" extended-state="6" />
@@ -774,6 +425,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="dd" />
+    <option name="LAST_COMMIT_MESSAGE" value="dd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
