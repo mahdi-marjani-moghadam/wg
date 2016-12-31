@@ -10,16 +10,14 @@
     ============================================= -->
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700|Roboto:300,400,500,700" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="<?=TEMPLATE_DIR?>css/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="<?=TEMPLATE_DIR?>css/bootstrap-rtl.css" type="text/css" />
     <link rel="stylesheet" href="<?=TEMPLATE_DIR?>css/style.css" type="text/css" />
     <link rel="stylesheet" href="<?=TEMPLATE_DIR?>css/style-rtl.css" type="text/css" />
 
-    <!-- One Page Module Specific Stylesheet -->
-    <link rel="stylesheet" href="onepage.css" type="text/css" />
-    <!-- / -->
 
     <link rel="stylesheet" href="<?=TEMPLATE_DIR?>css/dark.css" type="text/css" />
     <link rel="stylesheet" href="<?=TEMPLATE_DIR?>css/dark-rtl.css" type="text/css" />
-    <link rel="stylesheet" href="<?=TEMPLATE_DIR?>css/font-icons.css" type="text/css" />
+    <link rel="stylesheet" href="<?=TEMPLATE_DIR?>css/font-icons-rtl.css" type="text/css" />
     <link rel="stylesheet" href="<?=TEMPLATE_DIR?>css/et-line.css" type="text/css" />
     <link rel="stylesheet" href="<?=TEMPLATE_DIR?>css/animate.css" type="text/css" />
     <link rel="stylesheet" href="<?=TEMPLATE_DIR?>css/magnific-popup.css" type="text/css" />

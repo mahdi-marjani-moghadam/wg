@@ -48,12 +48,9 @@ class portfolioController
         switch($this->exportType)
         {
             case 'html':
-                include(ROOT_DIR . "templates/" . CURRENT_SKIN . "/template_start.php");
-                include(ROOT_DIR . "templates/" . CURRENT_SKIN . "/template_header.php");
-                include(ROOT_DIR . "templates/" . CURRENT_SKIN . "/template_rightMenu_admin.php");
+                include(ROOT_DIR . "templates/" . CURRENT_SKIN . "/title.inc.php");
                 include(ROOT_DIR . "templates/" . CURRENT_SKIN . "/$this->fileName");
-                include(ROOT_DIR . "templates/" . CURRENT_SKIN . "/template_footer.php");
-                include(ROOT_DIR . "templates/" . CURRENT_SKIN . "/template_end.php");
+                include(ROOT_DIR . "templates/" . CURRENT_SKIN . "/tail.inc.php");
                 break;
 
             case 'json':
@@ -72,6 +69,18 @@ class portfolioController
                 break;
         }
 
+    }
+
+    function showAll()
+    {
+        $port = new portfolio();
+        $result = $port->getByFilter('');
+        $export['list'] = $result['export']['list'];
+
+
+
+        $this->fileName = 'portfolio.showList.php';
+        $this->template($export);
     }
 
 }
