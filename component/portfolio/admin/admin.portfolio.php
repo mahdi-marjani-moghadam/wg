@@ -48,6 +48,7 @@ if( isset($_GET['action']) )
 
 else
 {
+
     //$portfolio->showPortfolioList();
     $portfolio->getContent();
 }

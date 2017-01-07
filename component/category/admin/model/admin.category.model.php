@@ -46,19 +46,19 @@ class adminCategoryModel extends looeic
     /**
      *
      */
-    public function __construct()
+    /*public function __construct()
     {
         $this->requiredFields = array(
             'title'=>  '',
             'parent_id'=>  ''
         );
-    }
+    }*/
 
     /**
      * @param $field
      * @return mixed
      */
-    public function __get($field)
+    /*public function __get($field)
     {
         if ($field == 'result') {
             return $this->result;
@@ -72,7 +72,7 @@ class adminCategoryModel extends looeic
             return $this->fields[$field];
         }
 
-    }
+    }*/
 
     /**
      * @param $input

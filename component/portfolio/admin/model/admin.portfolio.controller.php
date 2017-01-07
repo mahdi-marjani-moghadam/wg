@@ -217,28 +217,33 @@ class adminPortfolioController
         $result1=$result->setFields($fields);
         if($result1['result']!=1)
         {
-            $this->showPortfolioEditForm($fields,$result['msg']);
+            $this->showPortfolioEditForm($fields,$result1['msg']);
             die();
         }
 
         $validate=$result->validator();
-
         if($validate['result']!='1')
         {
-            $this->showPortfolioEditForm($fields,$result['msg']);
+
+            $this->showPortfolioEditForm($fields,$validate['msg']);
+
             die();
         }
         $saveTest= $result->save();
+
         if($saveTest['result']!=1)
         {
             $msg='مشکلی در ثبت تغییرات بوجود آمده است.';
             redirectPage(RELA_DIR . "admin/?component=portfolio", $msg);
         }
 
+
+
         foreach ($_FILES as $name=>$file)
         {
             if(is_array($file['tmp_name']))
             {
+
                 for($i=0 ; $i<sizeof($file['tmp_name']) ; $i++)
                 {
                     if($file['tmp_name'][$i] != '')
@@ -262,6 +267,7 @@ class adminPortfolioController
                 {
                     fileRemover(ROOT_DIR.'statics/files/portfolio/',$otherPic[$i]);
                 }
+
             }
             else
             {
@@ -279,7 +285,7 @@ class adminPortfolioController
                         $result->file_type = $type[0];
                         $result->extension = $type[1];
                         $result->originPic = $resultImage['image_name'];
-                        $result = $result->save();
+                        $result2 = $result->save();
                     }
                 }
             }
@@ -300,6 +306,7 @@ class adminPortfolioController
      */
     public function showPortfolioEditForm($fields,$msg='')
     {
+
 
         include_once(ROOT_DIR . "component/category/admin/model/admin.category.model.php");
         $category = new adminCategoryModel();
@@ -341,6 +348,7 @@ class adminPortfolioController
      */
     public function showPortfolioList($fields='')
     {
+
         $this->fileName='admin.portfolio.list.php';
         $this->template($fields);
         die();
@@ -402,6 +410,7 @@ class adminPortfolioController
 
     public function getContent()
     {
+
         $portfolio = new adminPortfolioModel();
         $portfolioResult = $portfolio->getByFilter();
 
@@ -421,7 +430,8 @@ class adminPortfolioController
             {
                 include_once(ROOT_DIR . "component/category/admin/model/admin.category.model.php");
                 $category = new adminCategoryModel();
-                $catName = $category::query("SELECT * FROM category WHERE Category_id IN (".($val['category']).")");
+                $catName = $category::query("SELECT * FROM category WHERE Category_id IN (".($val['category']).")")->getList();
+
                 foreach ($catName['export']['list'] as $key=>$value)
                 {
                     $categoryName[$keyExport][] = $value->fields['title'];

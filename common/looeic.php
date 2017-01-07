@@ -180,6 +180,8 @@ class looeic
         $obj= new $className('',get_called_class());
         $obj->getFieldsName();
 
+
+
         $obj->sql.=$sql;
         $obj->finalQuery=1;
 
